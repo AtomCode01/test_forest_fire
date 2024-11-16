@@ -1,2 +1,1 @@
-"# test_forest_fire" 
-"# test_forest_fire" 
+Prediction of forest fire
